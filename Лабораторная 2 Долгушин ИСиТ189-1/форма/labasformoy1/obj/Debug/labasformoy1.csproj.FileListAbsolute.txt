@@ -1,0 +1,22 @@
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\bin\Debug\labasformoy1.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\bin\Debug\labasformoy1.exe
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\bin\Debug\labasformoy1.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\obj\Debug\labasformoy1.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\obj\Debug\labasformoy1.Form1.resources
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\obj\Debug\labasformoy1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\obj\Debug\labasformoy1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\obj\Debug\labasformoy1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\obj\Debug\labasformoy1.exe
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\obj\Debug\labasformoy1.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\labasformoy1\labasformoy1\obj\Debug\labasformoy1.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\bin\Debug\labasformoy1.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\bin\Debug\labasformoy1.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\bin\Debug\labasformoy1.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\obj\Debug\labasformoy1.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\obj\Debug\labasformoy1.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\obj\Debug\labasformoy1.Form1.resources
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\obj\Debug\labasformoy1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\obj\Debug\labasformoy1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\obj\Debug\labasformoy1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\obj\Debug\labasformoy1.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 2 Долгушин ИСиТ189-1\форма\labasformoy1\obj\Debug\labasformoy1.pdb

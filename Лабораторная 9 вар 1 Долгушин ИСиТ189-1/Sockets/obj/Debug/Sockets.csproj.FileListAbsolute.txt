@@ -1,0 +1,20 @@
+C:\Users\Пользователь\Desktop\Sockets\Sockets\bin\Debug\Sockets.exe.config
+C:\Users\Пользователь\Desktop\Sockets\Sockets\bin\Debug\Sockets.exe
+C:\Users\Пользователь\Desktop\Sockets\Sockets\bin\Debug\Sockets.pdb
+C:\Users\Пользователь\Desktop\Sockets\Sockets\obj\Debug\Sockets.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Sockets\Sockets\obj\Debug\Sockets.Form1.resources
+C:\Users\Пользователь\Desktop\Sockets\Sockets\obj\Debug\Sockets.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Sockets\Sockets\obj\Debug\Sockets.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Sockets\Sockets\obj\Debug\Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Sockets\Sockets\obj\Debug\Sockets.exe
+C:\Users\Пользователь\Desktop\Sockets\Sockets\obj\Debug\Sockets.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\bin\Debug\Sockets.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\bin\Debug\Sockets.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\bin\Debug\Sockets.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\obj\Debug\Sockets.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\obj\Debug\Sockets.Form1.resources
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\obj\Debug\Sockets.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\obj\Debug\Sockets.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\obj\Debug\Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\obj\Debug\Sockets.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Sockets\obj\Debug\Sockets.pdb

@@ -1,0 +1,14 @@
+C:\Users\пользователь\Desktop\ороио\BearBees\bin\Debug\BearBees.exe.config
+C:\Users\пользователь\Desktop\ороио\BearBees\bin\Debug\BearBees.exe
+C:\Users\пользователь\Desktop\ороио\BearBees\bin\Debug\BearBees.pdb
+C:\Users\пользователь\Desktop\ороио\BearBees\obj\Debug\ЛР8.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\ороио\BearBees\obj\Debug\ЛР8.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\ороио\BearBees\obj\Debug\BearBees.exe
+C:\Users\пользователь\Desktop\ороио\BearBees\obj\Debug\BearBees.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\ЛР8\bin\Debug\BearBees.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\ЛР8\bin\Debug\BearBees.exe
+C:\Users\Пользователь\Desktop\БИПИТ\ЛР8\bin\Debug\BearBees.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\ЛР8\obj\Debug\ЛР8.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\ЛР8\obj\Debug\ЛР8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\ЛР8\obj\Debug\BearBees.exe
+C:\Users\Пользователь\Desktop\БИПИТ\ЛР8\obj\Debug\BearBees.pdb

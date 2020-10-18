@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\БИПИТ\potoki1\potoki1\bin\Debug\potoki1.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\potoki1\potoki1\bin\Debug\potoki1.exe
+C:\Users\Пользователь\Desktop\БИПИТ\potoki1\potoki1\bin\Debug\potoki1.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\potoki1\potoki1\obj\Debug\potoki1.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\potoki1\potoki1\obj\Debug\potoki1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\potoki1\potoki1\obj\Debug\potoki1.exe
+C:\Users\Пользователь\Desktop\БИПИТ\potoki1\potoki1\obj\Debug\potoki1.pdb

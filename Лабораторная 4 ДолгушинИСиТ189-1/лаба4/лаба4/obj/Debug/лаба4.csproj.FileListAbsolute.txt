@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\Лабораторная 4 ДолгушинИСиТ189-1\лаба4\лаба4\bin\Debug\лаба4.exe.config
+C:\Users\Пользователь\Desktop\Лабораторная 4 ДолгушинИСиТ189-1\лаба4\лаба4\bin\Debug\лаба4.exe
+C:\Users\Пользователь\Desktop\Лабораторная 4 ДолгушинИСиТ189-1\лаба4\лаба4\bin\Debug\лаба4.pdb
+C:\Users\Пользователь\Desktop\Лабораторная 4 ДолгушинИСиТ189-1\лаба4\лаба4\obj\Debug\лаба4.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Лабораторная 4 ДолгушинИСиТ189-1\лаба4\лаба4\obj\Debug\лаба4.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Лабораторная 4 ДолгушинИСиТ189-1\лаба4\лаба4\obj\Debug\лаба4.exe
+C:\Users\Пользователь\Desktop\Лабораторная 4 ДолгушинИСиТ189-1\лаба4\лаба4\obj\Debug\лаба4.pdb

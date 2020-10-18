@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\bin\Debug\бипит.exe.config
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\bin\Debug\бипит.exe
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\bin\Debug\бипит.pdb
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\obj\Debug\бипит.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\obj\Debug\бипит.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\obj\Debug\бипит.exe
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\obj\Debug\бипит.pdb

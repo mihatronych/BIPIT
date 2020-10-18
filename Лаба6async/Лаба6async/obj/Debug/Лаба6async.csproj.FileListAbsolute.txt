@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\bin\Debug\Лаба6async.exe.config
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\bin\Debug\Лаба6async.exe
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\bin\Debug\Лаба6async.pdb
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\obj\Debug\Лаба6async.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\obj\Debug\Лаба6async.Form1.resources
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\obj\Debug\Лаба6async.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\obj\Debug\Лаба6async.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\obj\Debug\Лаба6async.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\obj\Debug\Лаба6async.exe
+C:\Users\Пользователь\source\repos\Лаба6async\Лаба6async\obj\Debug\Лаба6async.pdb

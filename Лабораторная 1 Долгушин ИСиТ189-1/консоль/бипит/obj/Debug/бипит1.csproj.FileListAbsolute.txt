@@ -1,0 +1,21 @@
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\bin\Debug\бипит.exe.config
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\bin\Debug\бипит.exe
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\bin\Debug\бипит.pdb
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\obj\Debug\бипит1.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\obj\Debug\бипит1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\obj\Debug\бипит.exe
+C:\Users\Пользователь\Desktop\РПП\бипит\бипит\obj\Debug\бипит.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\бипит\бипит\bin\Debug\бипит.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\бипит\бипит\bin\Debug\бипит.exe
+C:\Users\Пользователь\Desktop\БИПИТ\бипит\бипит\bin\Debug\бипит.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\бипит\бипит\obj\Debug\бипит1.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\бипит\бипит\obj\Debug\бипит1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\бипит\бипит\obj\Debug\бипит.exe
+C:\Users\Пользователь\Desktop\БИПИТ\бипит\бипит\obj\Debug\бипит.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 1 Долгушин ИСиТ189-1\консоль\бипит\bin\Debug\бипит.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 1 Долгушин ИСиТ189-1\консоль\бипит\bin\Debug\бипит.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 1 Долгушин ИСиТ189-1\консоль\бипит\bin\Debug\бипит.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 1 Долгушин ИСиТ189-1\консоль\бипит\obj\Debug\бипит1.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 1 Долгушин ИСиТ189-1\консоль\бипит\obj\Debug\бипит1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 1 Долгушин ИСиТ189-1\консоль\бипит\obj\Debug\бипит.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 1 Долгушин ИСиТ189-1\консоль\бипит\obj\Debug\бипит.pdb

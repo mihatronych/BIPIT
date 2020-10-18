@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\bin\Debug\Лаба4.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\bin\Debug\Лаба4.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\bin\Debug\Лаба4.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\obj\Debug\Делегаты.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\obj\Debug\Лаба4.Form1.resources
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\obj\Debug\Лаба4.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\obj\Debug\Делегаты.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\obj\Debug\Делегаты.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\obj\Debug\Лаба4.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лаба5\obj\Debug\Лаба4.pdb

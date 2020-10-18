@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Server\bin\Debug\Server.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Server\bin\Debug\Server.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Server\bin\Debug\Server.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Server\obj\Debug\Server.exe
+C:\Users\Пользователь\Desktop\БИПИТ\Лабораторная 9 вар 1 Долгушин ИСиТ189-1\Server\obj\Debug\Server.pdb

@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\bin\Debug\laba7.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\bin\Debug\laba7.exe
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\bin\Debug\laba7.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\obj\Debug\laba7.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\obj\Debug\laba7.Form1.resources
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\obj\Debug\laba7.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\obj\Debug\laba7.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\obj\Debug\laba7.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\obj\Debug\laba7.exe
+C:\Users\Пользователь\Desktop\БИПИТ\laba7\laba7\obj\Debug\laba7.pdb

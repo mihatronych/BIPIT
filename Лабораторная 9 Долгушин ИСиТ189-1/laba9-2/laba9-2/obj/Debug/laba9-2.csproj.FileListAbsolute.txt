@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\bin\Debug\laba9-2.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\bin\Debug\laba9-2.exe
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\bin\Debug\laba9-2.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\obj\Debug\laba9-2.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\obj\Debug\laba9_2.Form1.resources
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\obj\Debug\laba9_2.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\obj\Debug\laba9-2.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\obj\Debug\laba9-2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\obj\Debug\laba9-2.exe
+C:\Users\Пользователь\Desktop\БИПИТ\laba9-2\laba9-2\obj\Debug\laba9-2.pdb

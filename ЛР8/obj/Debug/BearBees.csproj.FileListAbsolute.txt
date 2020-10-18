@@ -1,0 +1,7 @@
+C:\Users\пользователь\Desktop\ороио\BearBees\bin\Debug\BearBees.exe.config
+C:\Users\пользователь\Desktop\ороио\BearBees\bin\Debug\BearBees.exe
+C:\Users\пользователь\Desktop\ороио\BearBees\bin\Debug\BearBees.pdb
+C:\Users\пользователь\Desktop\ороио\BearBees\obj\Debug\BearBees.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\ороио\BearBees\obj\Debug\BearBees.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\ороио\BearBees\obj\Debug\BearBees.exe
+C:\Users\пользователь\Desktop\ороио\BearBees\obj\Debug\BearBees.pdb

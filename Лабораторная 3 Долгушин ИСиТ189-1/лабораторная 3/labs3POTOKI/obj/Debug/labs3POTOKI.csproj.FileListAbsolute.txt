@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\bin\Debug\labs3POTOKI.exe.config
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\bin\Debug\labs3POTOKI.exe
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\bin\Debug\labs3POTOKI.pdb
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\obj\Debug\labs3POTOKI.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\obj\Debug\labs3POTOKI.Form1.resources
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\obj\Debug\labs3POTOKI.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\obj\Debug\labs3POTOKI.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\obj\Debug\labs3POTOKI.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\obj\Debug\labs3POTOKI.exe
+C:\Users\Пользователь\Desktop\БИПИТ\labs3POTOKI\labs3POTOKI\obj\Debug\labs3POTOKI.pdb
